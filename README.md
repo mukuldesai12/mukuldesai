@@ -1,131 +1,107 @@
-# Hi there! 👋 I'm Mukul Desai
+# Hi, I'm Mukul Desai 👋
 
-**Turning complex data into clear decisions | Building AI-first solutions | Bridging Business & Engineering**
-
-📍 Boston, MA | 🎓 MS in Information Systems @ Northeastern University  
-🔍 Open to full-time roles in Data Analytics, BI, Data Science, and ML Engineering
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukuldesai/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukuldesai)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desai.mu@northeastern.edu)
+**Data Engineer** | Python · SQL · Snowflake · dbt · Apache Airflow | Healthcare & Financial Services  
+📍 Jersey City, NJ · [LinkedIn](https://linkedin.com/in/mukuldesai) · [Portfolio](https://mukuldesai.vercel.app) · [Email](mailto:mukul.desai12@gmail.com)
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a data-driven professional passionate about building full-stack data solutions — from ETL pipelines and AI models to real-time dashboards and interactive applications. I bring a hybrid blend of skills across **Business Intelligence**, **Data Engineering**, **Machine Learning**, and **Financial Analytics**, helping businesses make faster, smarter decisions.
+I build data infrastructure that people can actually rely on. Pipelines that do not break silently. Transformation layers that stay consistent. Systems that scale without requiring someone to babysit them.
 
----
+My work spans ETL/ELT pipeline design, cloud data architecture, real-time stream processing, and end-to-end AI application development. I have shipped production systems in healthcare and financial services, working across Snowflake, dbt, Apache Airflow, Kafka, Flink, and AWS.
 
-## 🎓 Education
-
-- **M.S. in Information Systems** — Northeastern University, Boston (2023–2025)  
-- **B.E. in Electronics & Telecommunications** — University of Mumbai (2019–2023)
+Currently embedded with Johnson & Johnson via LTI Mindtree, building enterprise data reliability and automation systems. Previously the sole data and AI engineer at TripForCure, where I designed the full data platform before handing it off to a QA team.
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 🏥 Trip4Cure | Data Analyst & ML Engineering Intern  
-*Sep 2024 – Present*
-- 📊 Built Power BI & Tableau dashboards serving 500+ users, boosting engagement by 35%
-- 🤖 Developed AI chatbot with LangChain & OpenAI GPT, improving recommendation accuracy to 85%
-- 🔄 Automated ETL pipelines, reducing report turnaround by 40%
-- 📈 Created ML models for patient-hospital compatibility, achieving 78% accuracy
+**Data Engineer & Automation Engineer** — LTI Mindtree (Client: Johnson & Johnson)  
+Nov 2025 – Present | Raritan, NJ
 
----
+- Engineered real-time file monitoring and validation pipelines detecting schema inconsistencies across 6+ enterprise applications, eliminating 15+ hours per week of manual production support
+- Designed a User Access Management automation system integrating IAM and ServiceNow for end-to-end Salesforce access provisioning, reducing provisioning cycle time by 60%
+- Built CI/CD pipelines using Jenkins to enforce version-controlled data workflows across multiple repositories
 
-<details>
-<summary>🏆 Key Projects & Achievements</summary>
+**AI & Data Platform Engineer** — TripForCure Inc.  
+Jun 2025 – Oct 2025 | Remote
 
-### 🤖 AI & Machine Learning
-- **InterviewGPT** – AI-powered mock interview coach with GPT-4, LangChain, and Next.js. Features resume analysis, personalized question sets, and feedback generation.
-- **Lung Cancer Detection** – ML models (LogReg, XGBoost, H2O) deployed on Streamlit with 92% accuracy and SHAP explainability.
-- **Marketing Content Generator** – RAG-based GenAI tool using OpenAI + ChromaDB, increasing SEO content relevance by 40%.
+- Designed ETL pipelines consolidating healthcare datasets from 31 hospital locations using Python, SQL, and Snowflake, cutting manual consolidation effort by 80%
+- Architected cloud infrastructure on AWS (S3, RDS, IAM, CloudWatch), achieving zero-downtime migration from legacy systems
+- Built a LangChain and GPT-4-powered hospital recommendation engine with ChromaDB vector search, producing validated datasets for Power BI clinical dashboards
 
-### ⚙️ Data Engineering & Real-time Analytics
-- **Real-Time Fraud Detection** – Kafka + Flink pipeline handling 10,000+ TPS with 99.9% accuracy.
-- **Financial Risk ETL System** – Airflow + dbt with partitioning on Snowflake, improving query speed by 70%.
-- **Healthcare ETL Platform** – Unified data pipelines from 31+ global hospitals, ensuring data consistency across systems.
+**Business Intelligence & Data Engineering Intern** — TripForCure Inc.  
+Sep 2024 – May 2025 | Remote
 
-### 📊 Business Intelligence & Analytics
-- **UAE Vehicle Market Dashboard** – Power BI dashboard on 150K listings with K-means clustering for market segments.
-- **Marketing Analytics Platform** – Connected 5+ marketing tools to track ROI & optimize campaigns in real-time.
-- **IPL Cricket Dashboard** – Tableau dashboard with 15+ KPIs and predictive models (75% match accuracy).
-</details>
+- Built Python and SQL ETL pipelines with dbt transformations and automated quality checks, achieving 99.9% dataset accuracy across 30+ hospital locations
+- Designed Power BI dashboards tracking clinical KPIs for 500+ internal stakeholders
 
 ---
 
-## 🛠️ Technical Stack
+## Projects
 
-### 💻 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### [Healthcare Data Reliability Platform](https://github.com/mukuldesai)
+`Snowflake` `dbt` `Apache Airflow` `Python` `SQL` — Apr 2026
 
-### 🛠 Data Engineering
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Flink](https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apache-flink&logoColor=white)
-![DBT](https://img.shields.io/badge/DBT-FF6B6B?style=flat-square&logo=dbt&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-
-### 📊 Business Intelligence
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
-
-### 🤖 AI/ML & Cloud
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### 🗄 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+End-to-end ELT pipeline on Snowflake and dbt with Medallion Architecture (staging, intermediate, mart layers) to ingest multi-source hospital and claims data. Automated quality checks covering freshness validation, null detection, and duplicate identification. Airflow orchestration with custom anomaly monitoring to surface SLA breaches.
 
 ---
 
-## 🏅 Certifications
+### [Real-Time Financial Risk & Fraud Detection Pipeline](https://github.com/mukuldesai/Real-Time-Fraud-Detection-System)
+`Apache Kafka` `Apache Flink` `Scikit-learn` `PyOD` `PostgreSQL` — Mar 2025
 
-- 🏆 Google Cloud Data Analytics Professional Certificate  
-- 🏆 IBM Data Science Professional Certificate  
-- 🏆 IBM Data Engineering Professional Certificate  
-- 🏆 Microsoft x LinkedIn Career Essentials in Data Analysis
+Fault-tolerant streaming pipeline ingesting and processing financial market data in real time. AI-powered anomaly detection models reduced fraudulent transaction detection time from hours to seconds. Portfolio risk models (VaR, CVaR, Sharpe Ratio, Sortino Ratio) improved assessment accuracy by 23% over traditional batch methods.
 
 ---
 
-## 🌱 Currently Sharpening My Edge In
+### [ZeroDay — Multi-Agent AI Developer Onboarding](https://github.com/mukuldesai/ZeroDay)
+`LangChain` `OpenAI` `ChromaDB` `FastAPI` `Python` — Jul 2025
 
-- 📦 Advanced MLOps & Deployment (MLflow, CI/CD, Docker)
-- 📉 Financial Modeling & Quantitative Analysis (CAPM, Monte Carlo)
-- 🌩️ Serverless ETL with AWS Lambda, Glue & Athena
-
----
-
-## 🎯 What Sets Me Apart
-
-💡 **Full-Stack Data Professional** — Skilled across the entire data lifecycle: ingestion → modeling → ML → dashboards  
-🚀 **AI-First Mindset** — I build intelligent systems that adapt, automate, and deliver impact  
-📊 **Business Value Obsessed** — I turn messy data into money-saving insights  
-🔄 **Collaborative & Agile** — Experienced in fast-moving teams, sprints, and stakeholder alignment
+Four-agent AI system covering code search, task recommendations, learning guidance, and real-time developer assistance, with shared context across all agents. Integrated OpenAI LLMs with ChromaDB vector search via FastAPI for semantic knowledge retrieval across enterprise codebases.
 
 ---
 
+### [QuantFlow Financial Data Platform](https://github.com/mukuldesai/Financial-Pipeline)
+`Python` `Apache Airflow` `PostgreSQL` `Power BI` `yfinance` — Jun 2025
 
-## 🤝 Let’s Connect or Collaborate!
-
-I'm actively looking for:
-- 💼 Full-time roles in Data Science, BI, or ML
-- 🧠 Collaborations on AI/GenAI or healthcare/finance projects
-- 📢 Mentoring or tech talks on data career transitions
-
-📬 [Email me](mailto:desai.mu@northeastern.edu) or message on [LinkedIn](https://www.linkedin.com/in/mukuldesai)
+Automated the full DCF valuation pipeline from API ingestion through 5-year forecasting and peer benchmarking, eliminating 10 hours of manual modeling per valuation cycle. Power BI dashboards with scenario-driven buy/sell recommendations — analysis of Adobe (ADBE) surfaced a -53% downside signal.
 
 ---
 
-⭐️ *Made with ❤️ by [mukuldesai](https://github.com/mukuldesai)*
+### [InterviewGPT — AI Interview Preparation Platform](https://github.com/mukuldesai/InterviewGPT)
+`OpenAI GPT-4o` `LangChain` `Next.js` `Firebase` `TypeScript` — Apr 2025
+
+Full-stack interview preparation platform with a dynamic interview simulator generating role-specific questions, an AI-powered resume analyzer with quality scoring, and a progress insights dashboard tracking performance over time.
+
+---
+
+## Technical Skills
+
+| Category | Tools |
+|---|---|
+| **Languages** | Python (Pandas, NumPy, PySpark), SQL, R |
+| **Data Engineering** | ETL/ELT Pipelines, Data Modeling, Apache Airflow, dbt, Apache Kafka, Apache Flink, Medallion Architecture |
+| **Platforms & Databases** | Snowflake, PostgreSQL, MongoDB, MySQL, Apache Spark |
+| **Cloud & DevOps** | AWS (S3, RDS, IAM, CloudWatch), Docker, Jenkins, CI/CD Pipelines |
+| **Analytics & BI** | Power BI, Tableau, KPI Development, Dashboard Design |
+| **AI & ML** | LangChain, OpenAI GPT, ChromaDB, Vector Databases, Scikit-learn, FastAPI |
+
+---
+
+## Education
+
+**Master of Science, Information Systems** — Northeastern University (2023–2025)  
+**Bachelor of Engineering, Electronics & Telecommunications** — University of Mumbai, VESIT (2019–2023)
+
+---
+
+## Certifications
+
+- IBM Data Engineering Professional Certificate — Dec 2024
+- Google Cloud Data Analytics Specialization — Nov 2024
+- IBM Data Science Professional Certificate — Oct 2024
+
+---
+
+*Open to Data Engineer, Analytics Engineer, and Data Platform roles. Building at the intersection of reliable data infrastructure and applied AI.*
